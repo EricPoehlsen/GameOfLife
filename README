@@ -1,0 +1,5 @@
+This is an implementation of Conway's game of live algorithm
+
+It allows to set the grid size, the tick time and initial alive percentage
+
+to start it just run main.py
